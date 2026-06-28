@@ -1,0 +1,50 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "nmo2yEE0nX0_fcFbsC94T"
+uri = "file://artifacts/forever-young/public/images/hero.png"
+type = "image"
+title = "Luxury beauty salon hero interior"
+
+[[generated]]
+id = "qjLBUJk1nzn91r7r-XuQM"
+uri = "file://artifacts/forever-young/public/images/about.png"
+type = "image"
+title = "Elegant beauty studio about image"
+
+[[generated]]
+id = "RkMbqYjaPXzilCaDDUKCj"
+uri = "file://artifacts/forever-young/public/images/gallery-1.png"
+type = "image"
+title = "Beauty treatment gallery 1"
+
+[[generated]]
+id = "sYnlJe08_px5yIgnEei9M"
+uri = "file://artifacts/forever-young/public/images/gallery-2.png"
+type = "image"
+title = "Hair styling gallery 2"
+
+[[generated]]
+id = "6UkOh3xGVDEvGqcXQ1MLz"
+uri = "file://artifacts/forever-young/public/images/gallery-3.png"
+type = "image"
+title = "Spa ambiance gallery 3"
+
+[[generated]]
+id = "HlU-IF6tVFYXonNZNMI4G"
+uri = "file://artifacts/forever-young/public/images/gallery-4.png"
+type = "image"
+title = "Makeup artistry gallery 4"
+
+[[generated]]
+id = "J1aWf9Tjww3wulvzkKOJH"
+uri = "file://artifacts/forever-young/public/images/gallery-5.png"
+type = "image"
+title = "Aesthetic clinic gallery 5"
+
+[[generated]]
+id = "Gd7VWvnJdtaOVynsmQSpe"
+uri = "file://artifacts/forever-young/public/images/gallery-6.png"
+type = "image"
+title = "Manicure station gallery 6"

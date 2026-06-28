@@ -1,0 +1,206 @@
+Here's a professional prompt you can paste into **Replit AI** to generate a modern one-page salon website.
+
+---
+
+## Replit AI Prompt
+
+**Create a premium, responsive one-page website for a beauty salon.**
+
+**Business Name:**
+Forever Young Aesthetic & Beauty Studio
+
+### Theme
+
+Design should feel luxurious, modern, elegant, feminine, and premium.
+
+Color Palette:
+
+* White
+* Soft Gold (#D4AF37)
+* Beige
+* Light Pink
+* Black for headings
+
+Font:
+
+* Playfair Display for headings
+* Poppins for body text
+
+The website must be mobile-friendly, fast, and SEO optimized.
+
+---
+
+## Sections
+
+### Hero Section
+
+Large background image of a luxury beauty salon.
+
+Heading:
+**Reveal Your Timeless Beauty**
+
+Subheading:
+Professional Aesthetic & Beauty Treatments in Bahria Town, Lahore.
+
+Buttons:
+
+* Book Appointment
+* Call Now
+
+Display phone number:
+**0329-9055551**
+
+---
+
+### About Us
+
+Heading:
+**About Forever Young**
+
+Content:
+
+Welcome to Forever Young Aesthetic & Beauty Studio, where beauty meets confidence. We specialize in professional aesthetic and beauty treatments designed to help you look and feel your best. Our experienced team uses modern techniques and high-quality products in a relaxing, luxurious environment.
+
+---
+
+### Our Services
+
+Display services in attractive cards with icons.
+
+Services include:
+
+* Hydra Facial
+* Medi Facial
+* Skin Care Treatments
+* Acne Treatment
+* Anti Aging Treatments
+* PRP Therapy
+* Hair Treatments
+* Bridal Makeup
+* Party Makeup
+* Hair Styling
+* Hair Coloring
+* Manicure
+* Pedicure
+* Waxing
+* Threading
+* Massage
+* Eyelash Extensions
+
+---
+
+### Why Choose Us
+
+Show four feature cards.
+
+* Experienced Beauty Experts
+* Premium Quality Products
+* Clean & Hygienic Environment
+* Personalized Beauty Solutions
+
+---
+
+### Gallery
+
+Create a beautiful image gallery with placeholder luxury salon images.
+
+Use hover animations.
+
+---
+
+### Testimonials
+
+Add three sample customer reviews.
+
+★★★★★
+
+"I loved my Hydra Facial. Amazing service!"
+
+★★★★★
+
+"Professional staff and beautiful environment."
+
+★★★★★
+
+"My favorite beauty salon in Bahria Town."
+
+---
+
+### Contact Section
+
+Display:
+
+**Forever Young Aesthetic & Beauty Studio**
+
+Phone:
+0329-9055551
+
+Address:
+959P+QM, Bahria Town, Lahore, Pakistan
+
+Include:
+
+* Call button (tel:03299055551)
+* Google Maps embed using the address
+* Contact form with:
+
+  * Name
+  * Phone
+  * Message
+  * Send button
+
+---
+
+### Footer
+
+Display:
+
+Forever Young Aesthetic & Beauty Studio
+
+Phone:
+0329-9055551
+
+Address:
+959P+QM, Bahria Town, Lahore, Pakistan
+
+Copyright:
+© 2026 Forever Young Aesthetic & Beauty Studio. All Rights Reserved.
+
+---
+
+## Extra Features
+
+* Sticky navigation bar
+* Smooth scrolling
+* Scroll animations
+* Image hover effects
+* Responsive design
+* Back-to-top button
+* Floating WhatsApp button using:
+  **[https://wa.me/923299055551](https://wa.me/923299055551)**
+* Click-to-call button
+* Modern glassmorphism effects
+* Soft shadows
+* Rounded corners
+* Clean spacing
+* SEO-friendly HTML structure
+* Optimized loading speed
+* Semantic HTML5
+* Accessibility best practices
+
+---
+
+## SEO Meta Tags
+
+**Title:**
+Forever Young Aesthetic & Beauty Studio | Beauty Salon in Bahria Town Lahore
+
+**Meta Description:**
+Forever Young Aesthetic & Beauty Studio offers professional beauty, aesthetic, skincare, hair care, makeup, Hydra Facial, PRP therapy, and salon services in Bahria Town, Lahore. Book your appointment today.
+
+**Keywords:**
+Beauty Salon Bahria Town Lahore, Aesthetic Clinic Lahore, Hydra Facial Lahore, Bridal Makeup Lahore, Skin Care Lahore, Hair Treatments Lahore, Beauty Studio Lahore, PRP Therapy Lahore, Forever Young Beauty Studio
+
+---
+
+**Use React + Tailwind CSS with a modern component-based structure, smooth animations, and clean, production-quality code.**
